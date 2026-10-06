@@ -1,11 +1,16 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "app.robitquiz",
-    "sha256_cert_fingerprints": [
-      "98:48:3F:2C:5E:37:5D:33:1E:F1:88:E5:79:13:5E:93:7F:D8:67:97:CB:9E:92:8E:A8:CC:51:02:14:62:1D:5D",
-      "10:3A:58:1F:44:EA:29:96:3C:09:48:70:B8:44:54:EA:4D:5D:19:54:46:6A:4A:6A:11:43:97:51:7E:94:4E:B1"
-    ]
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "app.robitquiz",
+      "sha256_cert_fingerprints": [
+        "0F:CC:AC:AB:87:B2:47:6E:17:AB:D3:AF:F1:BF:62:B8:29:24:19:38:46:6D:59:9C:C5:7A:54:46:33:41:54:FC",
+        "98:48:3F:2C:5E:37:5D:33:1E:F1:88:E5:79:13:5E:93:7F:D8:67:97:CB:9E:92:8E:A8:CC:51:02:14:62:1D:5D",
+        "10:3A:58:1F:44:EA:29:96:3C:09:48:70:B8:44:54:EA:4D:5D:19:54:46:6A:4A:6A:11:43:97:51:7E:94:4E:B1"
+      ]
+    }
   }
-}]
+]
